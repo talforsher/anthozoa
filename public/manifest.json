@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Anthozoa",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://anthozoa.co.il/",
+    "short_name": "OctoCape",
+    "theme_color": "#ffffff",
+    "description": "Anthozoa | by ARCH Adi Krief",
+    "orientation": "natural",
+    "background_color": "#ffffff",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/octo.jpg",
+            "type": "image/jpeg",
+            "sizes": "917x917"
+        }
+    ]
+}
